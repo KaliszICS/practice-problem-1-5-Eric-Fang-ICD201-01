@@ -9,15 +9,15 @@ import math
 
 def q1():
   #Write Assignment code here
-  num = input("Input an interger: ")
+  num = input("Input an integer: ")
   num = int(num)
-  num += 3
+  num = num + 3
   print(num)
 
 def q2():
   #Write Assignment code here
   num = input("Input a number: ")
-  num += 4
+  num = str(num) + "4"
   num = float(num) + 2
   print(num)
 
@@ -29,11 +29,13 @@ def q3():
 def q4():
   #Write Assignment code here
   num = float(input("Input a number: "))
-  print(int(num * 12))
+  num = num * 12
+  num = int(num)
+  print(num)
 
 def q5():
   #Write Assignment code here
-  num = int(input("Input an interger: "))
+  num = int(input("Input an integer: ")) + 5
   print(f"Your number + 5 is {num}")
 
 #Comment this code out when running tests
