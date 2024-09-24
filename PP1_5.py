@@ -17,7 +17,7 @@ def q1():
 def q2():
   #Write Assignment code here
   num = input("Input a number: ")
-  num = str(num) + "4"
+  num = num + "4"
   num = float(num) + 2
   print(num)
 
