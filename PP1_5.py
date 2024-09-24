@@ -2,7 +2,7 @@
     Lesson: Typecasting
     Author: Eric Fang
     Date Created: September 23rd, 2024
-    Date Last Modified: September 23rd, 2024
+    Date Last Modified: September 24th, 2024
 '''
 
 import math
