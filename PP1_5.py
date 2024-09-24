@@ -31,7 +31,7 @@ def q4():
   num = float(input("Input a number: "))
   num = num * 12
   num = int(num)
-  print(num)
+  print(num)  
 
 def q5():
   #Write Assignment code here
